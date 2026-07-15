@@ -135,3 +135,7 @@ dmypy.json
 
 # ignore .tif files
 *.tif
+
+# Ignore large cache files
+*.npz
+*.nc
